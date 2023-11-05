@@ -3,18 +3,8 @@
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;231137143871d75a4495b028ee317672",
     "sites": [
         {
-            "key": "玩偶哥哥",
-            "name": "👽玩偶哥哥┃4K弹幕",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-        },
-        {
             "key": "csp_trj",
-            "name": "自用|唐人街",
+            "name": "XLS|唐人街",
             "type": 3,
             "api": "csp_Tangrenjie",
             "searchable": 1,
@@ -23,12 +13,21 @@
         },
         {
             "key": "csp_Nbys",
-            "name": "🛫泥巴┃海外",
+            "name": "XLS|泥巴",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
             "changeable": 1,
             "jar": "https://tvbox.cainisi.cf/jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
+        },
+        {
+            "key": "wogg_T4",
+            "name": "XLS|玩偶┃T4",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         }
     ],
     "parses": [
