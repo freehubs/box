@@ -3,6 +3,16 @@
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;231137143871d75a4495b028ee317672",
     "sites": [
         {
+            "key": "js豆瓣",
+            "name": "XLS┃豆瓣导航┃",
+            "type": 3,
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/douban.js"
+        },
+        {
             "key": "csp_trj",
             "name": "XLS|唐人街",
             "type": 3,
