@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "XLS┃豆瓣导航┃",
+            "name": "豆瓣热门",
             "type": 3,
             "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
             "searchable": 0,
@@ -13,17 +13,8 @@
             "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/douban.js"
         },
         {
-            "key": "csp_trj",
-            "name": "XLS|唐人街",
-            "type": 3,
-            "api": "csp_Tangrenjie",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Nbys",
-            "name": "XLS|泥巴",
+            "name": "泥巴TV",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -32,12 +23,21 @@
         },
         {
             "key": "wogg_T4",
-            "name": "XLS|玩偶┃T4",
+            "name": "阿里云玩偶",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_trj",
+            "name": "唐人街TV",
+            "type": 3,
+            "api": "csp_Tangrenjie",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         }
     ],
     "parses": [
